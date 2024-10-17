@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Utilities.deps.json
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Utilities.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Utilities.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Models.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Models.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.F2CC5BFF.Up2Date
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\refint\Hospital.Utilities.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\Hospital.Utilities.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Utilities\obj\Debug\net8.0\ref\Hospital.Utilities.dll

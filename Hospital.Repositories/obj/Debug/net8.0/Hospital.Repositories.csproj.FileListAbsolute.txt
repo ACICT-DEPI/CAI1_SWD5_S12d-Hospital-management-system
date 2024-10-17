@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.dll
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Models.pdb
+C:\Users\Admin\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.043409E1.Up2Date
